@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "API Drive Server";
+}
+
+<div class="jumbotron">
+    <h1>API Drive Server - Bare Bones Reference Code</h1>
+    <p class="lead">API Drive exposes two public endpoints, store and retrieve. Designed to store/retrieve a 64KB chunk of arbitrary data as a BSON byte array, this arrangement allows millions of machines to be clustered together to produce a massively scalable distributed harddrive.
+
+The general principle is that rather than storing an individual file on a server, only a few chunks are stored, the rest are store on any number of similar servers. The addresses, chunk GUIDs and order of reconstruction are stored in a file, much similar to a .bittorrent file.
+
+By processing the file, hundreds (or more) of connections can be to download chunks in parrallel greatly improving download speeds. In addition, as no one knows what a chunk is, there is deniability in the off-chance that illegal content is uploaded. Further, there is a very high probability that the chunk itself will not contain anything that is illegal in itself.
+
+This project is a very basic bare bones implementation, without any whistles or bells (or even error handling), but its enough to get the point. You will need to write the calling code for the API, just look at the contracts and use JSON/BSON.
+</p>
+    <p><a href="http://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+</div>
