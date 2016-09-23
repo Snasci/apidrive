@@ -22,6 +22,8 @@ LGPL v2.1 - http://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html
 GPL v3.0 - http://www.gnu.org/licenses/gpl-3.0.en.html
 GPL v2.0 - http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html 
 
+API Drive is compatible with the Hash Naming System (see Snasci's other repos on Github for further info).
+
 Frequently Asked Questions
 
 Is there any authentication?
