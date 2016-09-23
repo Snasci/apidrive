@@ -12,15 +12,15 @@ This project is a very basic bare bones implementation, without any whistles or 
 
 The source is available under numerous licenses:
 
-Apache - http://www.apache.org/licenses/LICENSE-2.0
-BSD 3-Clause - https://opensource.org/licenses/BSD-3-Clause
-BSD 2-Clause - https://opensource.org/licenses/BSD-2-Clause
-WTFPL - http://www.wtfpl.net/about/
-MIT - https://opensource.org/licenses/MIT
-LGPL v3.0 - http://www.gnu.org/licenses/lgpl-3.0.en.html
-LGPL v2.1 - http://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html
-GPL v3.0 - http://www.gnu.org/licenses/gpl-3.0.en.html
-GPL v2.0 - http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html 
+    Apache - http://www.apache.org/licenses/LICENSE-2.0
+    BSD 3-Clause - https://opensource.org/licenses/BSD-3-Clause
+    BSD 2-Clause - https://opensource.org/licenses/BSD-2-Clause
+    WTFPL - http://www.wtfpl.net/about/
+    MIT - https://opensource.org/licenses/MIT
+    LGPL v3.0 - http://www.gnu.org/licenses/lgpl-3.0.en.html
+    LGPL v2.1 - http://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html
+    GPL v3.0 - http://www.gnu.org/licenses/gpl-3.0.en.html
+    GPL v2.0 - http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html 
 
 API Drive is compatible with the Hash Naming System (see Snasci's other repos on Github for further info).
 
